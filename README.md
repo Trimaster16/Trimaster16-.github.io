@@ -44,8 +44,8 @@ Rather than relying on rigid, pre-planned paper sketches, my core strength is de
 ## 🛠️ Shipped & Project History
 * **Mana Kingdoms** – Lead Level Designer (Active)
 * **Avalonia Online** (iAppsBeats) – Former Lead Level Designer & Administrator 
-* **Corleone Online** (iAppsBeats) – Lead Level Designer
-* **Graal Online - Unholy Nation** (Toonslab) - Lead Level Designer
+* **Corleone Online** (iAppsBeats) – Lead Level Designer (Active)
+* **Graal Online - Unholy Nation** (Toonslab) - Former Lead Level Designer
 
 ---
 
