@@ -3,7 +3,7 @@ Portfolio
 # Justin Adams | 2D Level Designer & World Builder
 📍 Oklahoma City, OK | ✉️ mr.j.adams20@gmail.com | 🌐 [GitHub Profile](https://github.com)
 
-> "2D Level Designer with 20+ years of expertise crafting immersive, top-down environments. Specializing in an iterative, flow-based workflow that builds highly responsive and organic player pacing directly inside the tile editor."
+> 2D Level Designer with 20+ years of expertise crafting immersive, top-down environments. Specializing in an iterative, flow-based workflow that builds highly responsive and organic player pacing directly inside the tile editor.
 
 ---
 
